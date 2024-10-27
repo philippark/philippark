@@ -1,4 +1,4 @@
-## Hi/Hola/Privet/Ahnyong/Bonjour/Hallo 👋
+## Hi/Hola/Privet/안녕/Bonjour/Hallo 👋
 
 <!--
 **philippark/philippark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
