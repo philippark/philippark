@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 🎓 Junior at Rensselaer Polytechnic Institute, majoring in Computer Science, graduating in spring 2026.
 
-👀 I’m interested in competitive programming, algorithms, platform engineering, and backend engineering.
+👀 Interested in competitive programming, algorithms, platform engineering, and backend engineering.
+
+🔭 Currently working on whatever piques my interest. Usually it revolves around something creative (I hope)
