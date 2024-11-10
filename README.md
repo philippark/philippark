@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 👀 Interested in competitive programming, algorithms, infrastructure, and backend engineering.
 
-⚡ Currently working on whatever piques my interest. Usually it revolves around something creative (I hope)
+⚡ Currently working on whatever piques my interest. 
