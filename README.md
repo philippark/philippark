@@ -1,4 +1,4 @@
-## Hi/Hola/привет/안녕/Bonjour/Hallo 👋
+## Hi, I'm Philip 👋
 
 🎓 Senior at Rensselaer Polytechnic Institute, B.S. in Computer Science
 
